@@ -26,10 +26,12 @@ The goal of this project was to create **one unified Power BI report** for Sales
 - Deploying in Power BI Service (auto-refresh)  
 - Iterating with stakeholder feedback  
 
-## 📸 Screenshots
-![Finance](screenshots/finance_overview.png)  
-![Sales](screenshots/sales_performance.png)  
-![Executive](screenshots/executive_summary.png)  
+
+## 📸 Screenshots  
+![Finance Dashboard](screenshots/finance_overview.png)  
+![Sales Dashboard](screenshots/sales_performance.png)  
+![Executive Dashboard](screenshots/executive_summary.png)  
+  
 
 ## 🔗 Interactive Dashboard
 👉 [View the live dashboard here](https://app.powerbi.com/view?r=eyJrIjoiZTk4ZWEyODktNjgzYy00ODA2LTg1NzMtZmY1MTExNTZjMmZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
